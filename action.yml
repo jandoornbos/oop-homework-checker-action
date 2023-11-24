@@ -1,0 +1,5 @@
+name: 'OOP Homework Checker'
+description: 'Checks if homework has been made'
+runs:
+  using: 'node20'
+  main: 'dist/index.js'
